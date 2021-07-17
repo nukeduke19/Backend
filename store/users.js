@@ -16,7 +16,7 @@ const users = [
     name: "Anand Lamani",
     email: "anandlamanird19@gmail.com",
     password: "anand19",
-  }
+  },
 ];
 
 const getUsers = () => users;
